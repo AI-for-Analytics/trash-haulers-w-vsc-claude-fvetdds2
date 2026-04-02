@@ -19,6 +19,9 @@ Before writing any code, use Claude to help you think through the problem.
 
 Ask Claude:  
 * How would you identify repeat missed pickups at the same address?
+
+1. address normalization
+* 
 * What assumptions need to be made about how addresses are standardized?  
 * What edge cases could cause over- or under-counting fines?
 
